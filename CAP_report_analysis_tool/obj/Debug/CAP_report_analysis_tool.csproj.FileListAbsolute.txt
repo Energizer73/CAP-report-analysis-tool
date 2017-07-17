@@ -1,0 +1,9 @@
+C:\Users\Artem Karugin\Work\My Development\CAP_report_analysis_tool\CAP_report_analysis_tool\bin\Debug\CAP_report_analysis_tool.exe.config
+C:\Users\Artem Karugin\Work\My Development\CAP_report_analysis_tool\CAP_report_analysis_tool\bin\Debug\CAP_report_analysis_tool.exe
+C:\Users\Artem Karugin\Work\My Development\CAP_report_analysis_tool\CAP_report_analysis_tool\bin\Debug\CAP_report_analysis_tool.pdb
+C:\Users\Artem Karugin\Work\My Development\CAP_report_analysis_tool\CAP_report_analysis_tool\obj\Debug\CAP_report_analysis_tool.csprojResolveAssemblyReference.cache
+C:\Users\Artem Karugin\Work\My Development\CAP_report_analysis_tool\CAP_report_analysis_tool\obj\Debug\CAP_report_analysis_tool.Form1.resources
+C:\Users\Artem Karugin\Work\My Development\CAP_report_analysis_tool\CAP_report_analysis_tool\obj\Debug\CAP_report_analysis_tool.Properties.Resources.resources
+C:\Users\Artem Karugin\Work\My Development\CAP_report_analysis_tool\CAP_report_analysis_tool\obj\Debug\CAP_report_analysis_tool.csproj.GenerateResource.Cache
+C:\Users\Artem Karugin\Work\My Development\CAP_report_analysis_tool\CAP_report_analysis_tool\obj\Debug\CAP_report_analysis_tool.exe
+C:\Users\Artem Karugin\Work\My Development\CAP_report_analysis_tool\CAP_report_analysis_tool\obj\Debug\CAP_report_analysis_tool.pdb
